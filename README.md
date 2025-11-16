@@ -7,6 +7,7 @@ Johnny55 War Crimes Dossier Interface - Archon Grid Simulator (pygame)
 | 
 ---
 INSTALLATION GUIDE:
+
 Here is the ULTIMATE ZERO-KNOWLEDGE, COPY-PASTE GUIDE
 for anyone — even if they’ve never touched a computer before — to run the Johnny55 War Crimes Dossier Simulator in under 5 minutes.JOHNNY55 SIMULATOR – EASY START GUIDEFor Windows Users Who Know Nothing About ComputersWHAT YOU NEEDA Windows computer (laptop or desktop)
 Internet (just once)
@@ -101,6 +102,7 @@ ACTIVATE THE TRUTH
 ---
 
 USER GUIDE:
+
 Keep both py files in the same folder // Run the Unix Johnny55 Simulator py file via Python (pygame simulator file)
 
 Fully immersive truth sim // Full Essays Repository and search mechanisms
