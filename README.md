@@ -13,7 +13,9 @@ Two files. One folder. All the data.
 PLATFORM: Pygame Dashboard
 A cinematic, interactive hub that runs on any machine with Python + Pygame.  
 
-CORE DATA & TOOLS90+ Essays Loaded (001–093): Full texts on birth certificate mechanics, phonics deception, maritime salvage law, soul-bond parallels with AI code. 
+CORE DATA & TOOLS
+90+ Essays Loaded (001–093): 
+Full texts on birth certificate mechanics, phonics deception, maritime salvage law, soul-bond parallels with AI code. 
 Searchable. Expandable context window.  
 Search the Lore:  #term → deep, scrollable, full-text results in context window — the #search engine scans all lore, essays, logs, quotes.  
 search term → instant top-bar hits.  
