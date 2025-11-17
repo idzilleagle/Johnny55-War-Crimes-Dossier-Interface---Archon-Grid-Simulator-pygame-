@@ -168,7 +168,7 @@ DATA SECTIONS (for adding lore):
 - PTENSOR_FORMULA_DATA: Formula with title, subtitle, formula, definitions
 - QTENSOR_FORMULA_DATA: Formula with title, subtitle, formula, definitions
 - QUANTUM_ANOMALY_DATA: Anomaly calculation with conditions, improbability_table, impact_json
-- ESSAY_DATABASE: External essay file with 100+ essays (title, content, author, date, tags)
+- ESSAY_DATABASE: External essay file with 90+ essays (title, content, author, date, tags)
 """
 
 import pygame
