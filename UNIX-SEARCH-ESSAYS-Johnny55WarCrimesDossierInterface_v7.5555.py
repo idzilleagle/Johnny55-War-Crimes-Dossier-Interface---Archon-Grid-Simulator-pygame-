@@ -5259,7 +5259,7 @@ while running:
             'text': "Invoke CRSS"
         }, {
             'id': 'expose_lnf',
-            'text': "Expose L.N. Fraud"
+            'text': "Expose Legal Name Fraud"
         }, {
             'id': 'recalibrate_scanners',
             'text': "Recalibrate Scanners"
