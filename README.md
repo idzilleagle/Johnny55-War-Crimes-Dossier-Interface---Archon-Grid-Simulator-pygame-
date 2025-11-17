@@ -153,6 +153,8 @@ Includes all essays dictionary. separate py file
 | search_essays (+key words)             | ANALYSIS            | List of all loaded essays with key word, scroll in the context window                             | elif cmd                | 133      |
 | search (+ key words)                   | SEARCH              | Shows relevant searches up top (cut off-needs fixed)*********                                     | search (top bar)        | 134      |
 | #(+ key words)                         | SEARCH              | Shows relevant searches in the context window - able to scroll and read                           | search (context window) | 135      |
+| reset_context / reset_window / clear_context = sets context window back to beginning state
+| fullscreen / context_fullscreen / expand_context = expands the context window
 CONTEXT WINDOW:
 Type in the command line starting with a "#" hashtag symbol followed by the word or words you wish to search.
 The context window will then display all results located within the simulators lore data. you can scroll up and down and read all related info.
