@@ -4380,7 +4380,7 @@ while running:
                                 current_truth_attack_payload_text = "ARMED: Clausula Rebis Sic Stantibus"
                                 truth_attack_payload_timer = 3000
                             elif btn_data['id'] == 'expose_lnf':
-                                current_truth_attack_payload_text = "ARMED: Writ of Deceit (L.N. Fraud)"
+                                current_truth_attack_payload_text = "ARMED: Writ of Deceit (Legal Name Fraud)"
                                 truth_attack_payload_timer = 3000
                             elif btn_data['id'] == 'recalibrate_scanners':
                                 print("Recalibrating Scanners...")
