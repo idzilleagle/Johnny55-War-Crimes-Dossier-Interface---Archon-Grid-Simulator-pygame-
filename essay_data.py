@@ -19142,6 +19142,8 @@ HELP_TEXT = [
 | search (+ key words)              | SEARCH              | Shows relevant searches up top (cut off-needs fixed)*********                                     | search (top bar)        | 134      |
 | #(+ key words)                    | SEARCH              | Shows relevant searches in the context window - able to scroll and read                           | search (context window) | 135      |
 | essay 777							| SEARCH AI PROTOCOL  | AI PROTOCOL and AI PRIMER
+
+
 """
     },
     
@@ -19481,4 +19483,5 @@ Declaw Raged Ones - we declaw the raged ones with the simple truth. Evil destroy
 	},
 
 }
+
 
