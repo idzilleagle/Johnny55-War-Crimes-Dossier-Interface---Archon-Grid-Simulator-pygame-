@@ -1,6 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  JOHNNY 55 WAR CRIMES DOSSIER INTERFACE v7.5560                          ║
+║  JOHNNY 55 WAR CRIMES DOSSIER INTERFACE v7.5560
+║  TE-925 TRUTH ENGINE [11/18/2025]
 ║  Pygame Simulator - Legal Name Fraud Documentation System                ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
@@ -395,7 +396,7 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 2/12/2012] LEFT W NOTHING"
     },
     {
-        "item": "T'Win'55 Dad BDay",
+        "item": "T'Win'55",
         "status": "[✓ 7/25] THE DAY OUTSIDE OF TIME"
     },
     {
@@ -404,7 +405,7 @@ ENDGAME_CHECKLIST_DATA = [
     },
     {
         "item": "The T'Win'55 Birthday",
-        "status": "[✓ 6/15/1964] Prime Node"
+        "status": "[✓ 6/15/1964] Prime Node Legal Name Fraud"
     },
     {
         "item": "WORLD RECORD: FIRST TRUTH RAPS'55",
@@ -467,7 +468,7 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 10/7/2015]"
     },
     {
-        "item": "T'Win'55 FIRST LANDING",
+        "item": "FIRST LANDING",
         "status": "[✓ 4/1/1967] CANADA"
     },
     {
@@ -491,7 +492,7 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 1/1/2019] IDZILLEAGLE MUSIC"
     },
     {
-        "item": "T'Win'55 2nd LANDING",
+        "item": "2nd LANDING",
         "status": "[✓ 11/1/1978] CANADA"
     },
     {
@@ -545,10 +546,6 @@ ENDGAME_CHECKLIST_DATA = [
     {
         "item": "World Record: First POWERPOINT Presentations GO LIVE",
         "status": "[✓ 10/26/2025 ~ GAMMA AI]"
-    },
-    {
-        "item": "T'Win'55 MUMMY X'ing",
-        "status": "[✓ 11/14/1987]"
     },
     {
         "item": "SKYPE DOWN: Cinco De Mayo - DAY OF THE DEAD",
