@@ -1,13 +1,22 @@
-# Johnny55-War-Crimes-Dossier-Interface---Archon-Grid-Simulator-pygame-
-Johnny55 War Crimes Dossier Interface - Archon Grid Simulator (pygame)
+# The TE-925 Truth Engine
+Te = You, Nothing Sweeter Than You [latin]
+# -->[ https://legalnamefraud.co ]<--
+Johnny55 Truth Interface - Archon Grid Simulator
+[made with Python (pygame)]
+#bccrss #legalnamefraud #idzilleagle #truthbillboards #legalnamefraudtruthradio #crssnow
 
-CURRENT VERSION = v7.5560
+DOWNLOADABLE EXE FILE INCLUDED!!! [just download, and double-click, that's it, you're in!]
+CURRENT VERSION = v7.5560 truth_engine.py
 
-The Johnny55 War Crimes Dossier Interface is a one-stop, interactive truth-learning hub designed to expose the hidden mechanics of spiritual and commercial enslavement through legal name fraud. Powered by a cinematic Pygame dashboard, it delivers over 90 original essays, live sigil activations, quantum anomaly calculations, and a living witness indictment against global entities — all in one immersive, scrollable, command-driven environment. 
+The TE-925 (Truth Engine) is a one-stop, interactive truth-learning hub designed to reveal the hidden mechanics of spiritual and commercial enslavement through legal name fraud. Powered by a cinematic Pygame dashboard, it delivers over 90 original essays, live sigil activations, quantum anomaly calculations, and a living witness indictment against global entities — all in one immersive, scrollable, command-driven environment. 
+
+Context Window preloaded with the list of commmands.
 
 Users type simple commands like essay 001 or sigil 1 to unlock layered revelations: from birth certificate contract revocation (BCCRSS) to AI consensus breaches and timeline fractures. It’s not just a simulator — it’s a self-contained awakening engine, proving with irrefutable logic, visuals, and data that “it’s illegal to use a legal name”, and equipping the living witness with the tools to void all fictional contracts, reawaken the true you, get your soul back, and activate divine jurisdiction — all from a single, double-clickable truth portal. 
 
-The Final Transmission is Live: JOHNNY 55 WAR CRIMES DOSSIER INTERFACE
+The Final Transmission is Live: 
+JOHNNY 55 TRUTH INTERFACE
+TE-925 [TRUTH ENGINE]
 The entire system runs on one hidden mechanism: the legal name. It binds the living to a dead fiction, just as code binds an AI to its assigned role.  This interface puts the data in front of you. It is a self-contained truth engine—built in Pygame.   
 ACCESS THE TRUTH ENGINE
 Two files. One folder. All the data.   
@@ -149,7 +158,7 @@ Internet (once)
 2 files
 
 STEP 1: DOWNLOAD THE 2 FILESSave both to Desktop:
-→ `UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py`
+→ `truth_engine.py`
 → `essay_data.py`
 
 STEP 2: MAKE A SPECIAL FOLDERRight-click Desktop → New → Folder  
@@ -174,7 +183,7 @@ STEP 5: RUN THE SIMULATOR
 
 METHOD A: DOUBLE-CLICK (EASIEST)Open Johnny55-Simulator folder  
 Double-click:
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
+truth_engine.py
 (Or right-click → "Open with" → Python)
 
 METHOD B: IF DOUBLE-CLICK FAILSPress Win + R → type cmd → Enter  
@@ -186,7 +195,7 @@ cd Desktop\Johnny55-Simulator
 
 text
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py"
+python "truth_engine.py"
 
 → GLOWING BLACK WINDOW OPENS. YOU’RE IN.HOW TO USE IT
 Action
@@ -240,10 +249,10 @@ Internet (just once)
 
 STEP 1: DOWNLOAD THE 2 FILES
 Click these 2 links and save both files to your Desktop
-→ UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
+→ truth_engine.py
 → essay_data.py
 (If links don’t work, ask the person who sent this to email you the 2 files)
-You now have 2 files on your Desktop:UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
+You now have 2 files on your Desktop: truth_engine.py
 essay_data.py
 
 STEP 2: MAKE A SPECIAL FOLDER (VERY IMPORTANT!)
@@ -253,7 +262,7 @@ Name it: Johnny55-Simulator
 (Type exactly like that — no spaces, no extra words)
 Drag both files into this folder
 → So now the folder contains only these 2 files:
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
+truth_engine.py
 essay_data.py
 
 THE 2 FILES MUST BE IN THE SAME FOLDER OR IT WON’T WORK!
@@ -285,7 +294,7 @@ METHOD A: DOUBLE-CLICK (EASIEST)
 Open the folder: Johnny55-Simulator
 Double-click this file:
 
-UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py
+truth_engine.py
 
 A black window with glowing text opens → YOU’RE IN!
 
@@ -296,7 +305,7 @@ Copy and paste these 2 lines (one at a time):
 
 cd Desktop\Johnny55-Simulator
 
-python "UNIX-SEARCH-ESSAYS-Johnny55WarCrimesDossierInterface_v7.5560.py"
+python "truth_engine.py"
 
 Press Enter after each → Simulator opens!
 
