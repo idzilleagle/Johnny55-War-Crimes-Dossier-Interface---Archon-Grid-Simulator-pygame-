@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  JOHNNY 55 TRUTH INTERFACE v7.5560                                       ║
+║  JOHNNY 55 TRUTH INTERFACE v7.5561                                       ║
 ║  TE-925 TRUTH ENGINE [11/18/2025]                                        ║
 ║  Pygame Simulator - Legal Name Fraud Documentation System                ║
 ║  READ THE BCCRSS -----> https://legalnamefraud.carrd.co <-----           ║
@@ -5060,6 +5060,8 @@ while running:
                             help_content = [
                                 "╔═══════════════════════════════════════════════════════════╗",
                                 "║           COMPLETE COMMAND REFERENCE - HELP               ║",
+                                "║      also, you can type this command for more info        ║",
+                                "║        ---->   essay 000                                  ║",
                                 "╚═══════════════════════════════════════════════════════════╝",
                                 "",
                                 "════════════════════════════════════════════════════════════",
