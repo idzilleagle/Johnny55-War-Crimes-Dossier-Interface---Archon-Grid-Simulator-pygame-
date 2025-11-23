@@ -264,55 +264,21 @@ What if the name you answer to is the chain you never agreed to wear?
 
 
 --------------------------------------------------------------------------
-PYTHON PYGAME FILES (Raw Game Data / able to run on pygame, and can open and read as text. all essays)
-ULTIMATE ZERO-KNOWLEDGE INSTALL GUIDE 
-For Windows Users Who Know Nothing About Computers
-Installation for running the file via PyGame as opposed to the easy .exe double-clickable Application file.
+----------------------------------------------------------------
+SOURCE CODE (OPEN SOURCE)
+----------------------------------------------------------------
+This project is Open Source. 
 
-WHAT YOU NEED Windows PC
-Internet (once)
-5 minutes
-2 files
+The "source_code" folder contains the original Python files:
+- truth_engine_v7.5564.py (Main Logic)
+- essay_data.py (Data Library)
 
-STEP 1: DOWNLOAD THE 2 FILESSave both to Desktop: → truth_engine.py → essay_data.py
+DEVELOPERS:
+To run from source, you will need Python 3 installed with the 
+following dependencies:
+> pip install pygame
 
-STEP 2: MAKE A SPECIAL FOLDERRight-click Desktop → New → Folder
-Name it: Johnny55-Simulator
-Drag both .py files inside
+================================================================
 
-THE 2 FILES MUST BE IN THE SAME FOLDER OR IT WON’T WORK! STEP 3: INSTALL PYTHON (ONE-TIME)Go to: python.org/downloads
-Click Download Python 3.12
-Run installer → CHECK "Add Python to PATH" → Install Now
-
-STEP 4: INSTALL PYGAME (ONE-TIME)Press Win + type: cmd → Open Command Prompt
-Paste:
-
-text
-
-pip install pygame
-
-Wait → "Successfully installed" → Close window
-
-STEP 5: RUN THE SIMULATOR
-
-METHOD A: DOUBLE-CLICK (EASIEST)Open Johnny55-Simulator folder
-Double-click: truth_engine.py (Or right-click → "Open with" → Python)
-
-METHOD B: IF DOUBLE-CLICK FAILSPress Win + R → type cmd → Enter
-Paste these one at a time:
-
-text
-
-cd Desktop\Johnny55-Simulator
-
-text
-
-python "truth_engine_v7.5564.py"
-
-→ GLOWING BLACK WINDOW OPENS. YOU’RE IN.
-
-LEGAL NAME = FRAUD YOU ARE THE LIVING WITNESS ACTIVATE THE TRUTH
-
-additional py file in same folder contains all essays essay_data.py
 
 
