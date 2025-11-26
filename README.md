@@ -1,4 +1,4 @@
-# The TE-925 Truth Engine ~ VERSION 7.6 ~ last updated 11/21/2025
+# The TE-925 Truth Engine ~ VERSION 7.6 ~ last updated 11/26/2025
 LINUX EDITION (AMD/INTEL x64) // WINDOWS EDITION (Both options available)
 The Linux edition has the updated version that allows the following:
 Updated Version:
