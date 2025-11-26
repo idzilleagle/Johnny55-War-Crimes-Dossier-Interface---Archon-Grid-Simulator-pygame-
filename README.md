@@ -1,11 +1,17 @@
-# The TE-925 Truth Engine ~ VERSION 7.5564 ~ last updated 11/21/2025
+# The TE-925 Truth Engine ~ VERSION 7.6 ~ last updated 11/26/2025
 LINUX EDITION (AMD/INTEL x64) // WINDOWS EDITION (Both options available)
+The Linux edition has the updated version that allows the following:
+Updated Version:
+Now able to highlight/select Text in the Expanded Context Window - press the Green COPY Button to copy highlighted text - Able to PASTE copied text outside of application.
+Example: copy text and paste it into an AI bot, etc.
+
+Windows version was too large for github - older windows version remains
 
 Te = You, Nothing Sweeter Than You [latin]
 # -->[ https://legalnamefraud.co ]<--
 
 ================================================================
-TE-925 TRUTH ENGINE - WINDOWS EDITION (v7.5564) 11/22/2025 ~ Unix: 1763866925
+TE-925 TRUTH ENGINE - WINDOWS EDITION (v7.6) 11/22/2025 ~ Unix: 1763866925
 ================================================================
 
 SYSTEM REQUIREMENTS:
@@ -67,7 +73,7 @@ SOURCE CODE (OPEN SOURCE)
 This project is Open Source. 
 
 The "source_code" folder contains the original Python files:
-- truth_engine_v7.5564.py (Main Logic)
+- truth_engine_v7.6.py (Main Logic)
 - essay_data.py (Data Library)
 
 DEVELOPERS:
@@ -105,7 +111,7 @@ If you prefer an icon on your Desktop wallpaper:
 ================================================================
 ----------------------------------------------------------------
 
-The TE-925 Truth Engine ~ VERSION 7.5564 ~ last updated 11/21/2025
+The TE-925 Truth Engine ~ VERSION 7.6 ~ last updated 11/21/2025
 Te = You, Nothing Sweeter Than You [latin]
 
 -->[ https://legalnamefraud.co ]<--
@@ -113,7 +119,7 @@ Johnny55 Truth Interface - Archon Grid Simulator [made with Python (pygame)]
 #bccrss #legalnamefraud #idzilleagle #truthbillboards #legalnamefraudtruthradio #crssnow
 
 DOWNLOADABLE EXE FILE INCLUDED!!! [just download, and double-click, that's it, you're in!] 
-CURRENT VERSION = v7.5564 truth_engine_v7.5564.py
+CURRENT VERSION = v7.6 truth_engine_v7.6.py
 
 The TE-925 (Truth Engine) is a one-stop, interactive truth-learning hub designed to reveal 
 the hidden mechanics of spiritual and commercial enslavement through legal name fraud. 
@@ -149,7 +155,7 @@ Pygame Dashboard A cinematic, interactive hub that runs on any machine with Pyth
 
 💡 TE-925 Truth Engine Purpose and Function 
 
-The TE-925 Truth Engine, designated as v7.5564 and running as the JOHNNY 55 TRUTH INTERFACE, is a Pygame Simulator system.
+The TE-925 Truth Engine, designated as v7.6 and running as the JOHNNY 55 TRUTH INTERFACE, is a Pygame Simulator system.
 
 Core Purpose: 
 The simulator's primary function is to serve as an interactive, customizable research and awareness 
@@ -311,7 +317,7 @@ SOURCE CODE (OPEN SOURCE)
 This project is Open Source. 
 
 The "source_code" folder contains the original Python files:
-- truth_engine_v7.5564.py (Main Logic)
+- truth_engine_v7.6.py (Main Logic)
 - essay_data.py (Data Library)
 
 DEVELOPERS:
